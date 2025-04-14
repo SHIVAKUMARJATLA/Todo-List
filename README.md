@@ -16,7 +16,7 @@ A simple and interactive **To-Do List** application built in **Python** 🐍 tha
 
 ## 🧰 Technologies Used
 
-- 🐍 Python **3.x**
+- 🐍 Python **3**
 - 🧱 Basic **Object-Oriented Programming (OOP)**
 
 ---
